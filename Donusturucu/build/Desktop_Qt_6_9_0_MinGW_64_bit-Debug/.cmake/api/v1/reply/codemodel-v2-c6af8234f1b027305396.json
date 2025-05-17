@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3dbe94e82fe15eccc2b1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Donusturucu",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Donusturucu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Donusturucu-Debug-183e4d02c6809134a17c.json",
+					"name" : "Donusturucu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Donusturucu_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Donusturucu_autogen-Debug-093dbbbd61b87f83986f.json",
+					"name" : "Donusturucu_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Donusturucu_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Donusturucu_autogen_timestamp_deps-Debug-c5cf38fdf27a89e80c62.json",
+					"name" : "Donusturucu_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "D:/QT/QT PROJE/Donusturucu"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

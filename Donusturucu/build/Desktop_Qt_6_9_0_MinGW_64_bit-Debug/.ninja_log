@@ -1,0 +1,71 @@
+# ninja log v6
+5	841	7691427302274584	Donusturucu_autogen/timestamp	7ee75d205127cf9e
+5	841	7691427302274584	Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+5	841	7691427302274584	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/timestamp	7ee75d205127cf9e
+5	841	7691427302274584	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+852	3850	7691427303606045	CMakeFiles/Donusturucu.dir/main.cpp.obj	bba4b327824ee650
+848	3860	7691427303576036	CMakeFiles/Donusturucu.dir/Donusturucu_autogen/mocs_compilation.cpp.obj	cd6d249e65d1e6f5
+855	4248	7691427303636051	CMakeFiles/Donusturucu.dir/mainwindow.cpp.obj	2ce26c0ece326d24
+4248	4694	7691427337574032	Donusturucu.exe	f4908fc8a10b4ce4
+40	955	7691453555069890	Donusturucu_autogen/timestamp	7ee75d205127cf9e
+40	955	7691453555069890	Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+40	955	7691453555069890	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/timestamp	7ee75d205127cf9e
+40	955	7691453555069890	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+956	4573	7691453556390714	CMakeFiles/Donusturucu.dir/Donusturucu_autogen/mocs_compilation.cpp.obj	cd6d249e65d1e6f5
+1041	4580	7691453557240909	CMakeFiles/Donusturucu.dir/main.cpp.obj	bba4b327824ee650
+1044	4842	7691453557270921	CMakeFiles/Donusturucu.dir/mainwindow.cpp.obj	2ce26c0ece326d24
+4842	5807	7691453595250034	Donusturucu.exe	f4908fc8a10b4ce4
+13	209	7691454659758104	Donusturucu_autogen/timestamp	7ee75d205127cf9e
+13	209	7691454659758104	Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+13	209	7691454659758104	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/timestamp	7ee75d205127cf9e
+13	209	7691454659758104	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+31	231	7691454839495041	Donusturucu_autogen/timestamp	7ee75d205127cf9e
+31	231	7691454839495041	Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+31	231	7691454839495041	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/timestamp	7ee75d205127cf9e
+31	231	7691454839495041	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+232	3285	7691454841515500	CMakeFiles/Donusturucu.dir/mainwindow.cpp.obj	2ce26c0ece326d24
+3285	3563	7691454872034266	Donusturucu.exe	f4908fc8a10b4ce4
+12	839	7691460955068299	Donusturucu_autogen/timestamp	7ee75d205127cf9e
+12	839	7691460955068299	Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+12	839	7691460955068299	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/timestamp	7ee75d205127cf9e
+12	839	7691460955068299	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+840	4324	7691460956538631	CMakeFiles/Donusturucu.dir/Donusturucu_autogen/mocs_compilation.cpp.obj	cd6d249e65d1e6f5
+845	4442	7691460956578640	CMakeFiles/Donusturucu.dir/main.cpp.obj	bba4b327824ee650
+849	4783	7691460956618656	CMakeFiles/Donusturucu.dir/mainwindow.cpp.obj	2ce26c0ece326d24
+4783	5094	7691460995963648	Donusturucu.exe	f4908fc8a10b4ce4
+12	207	7691468780179368	Donusturucu_autogen/timestamp	7ee75d205127cf9e
+12	207	7691468780179368	Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+12	207	7691468780179368	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/timestamp	7ee75d205127cf9e
+12	207	7691468780179368	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+208	3322	7691468782139816	CMakeFiles/Donusturucu.dir/mainwindow.cpp.obj	2ce26c0ece326d24
+3322	3585	7691468813282000	Donusturucu.exe	f4908fc8a10b4ce4
+31	233	7691468869180231	Donusturucu_autogen/timestamp	7ee75d205127cf9e
+31	233	7691468869180231	Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+31	233	7691468869180231	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/timestamp	7ee75d205127cf9e
+31	233	7691468869180231	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+234	3305	7691468871210709	CMakeFiles/Donusturucu.dir/mainwindow.cpp.obj	2ce26c0ece326d24
+3305	3572	7691468901917756	Donusturucu.exe	f4908fc8a10b4ce4
+30	234	7691469023200965	Donusturucu_autogen/timestamp	7ee75d205127cf9e
+30	234	7691469023200965	Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+30	234	7691469023200965	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/timestamp	7ee75d205127cf9e
+30	234	7691469023200965	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+235	3267	7691469025251448	CMakeFiles/Donusturucu.dir/mainwindow.cpp.obj	2ce26c0ece326d24
+3267	3527	7691469055571397	Donusturucu.exe	f4908fc8a10b4ce4
+12	236	7691469300368664	Donusturucu_autogen/timestamp	7ee75d205127cf9e
+12	236	7691469300368664	Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+12	236	7691469300368664	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/timestamp	7ee75d205127cf9e
+12	236	7691469300368664	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+236	3113	7691469302619174	CMakeFiles/Donusturucu.dir/mainwindow.cpp.obj	2ce26c0ece326d24
+3113	3365	7691469331385708	Donusturucu.exe	f4908fc8a10b4ce4
+30	242	7691469610365216	Donusturucu_autogen/timestamp	7ee75d205127cf9e
+30	242	7691469610365216	Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+30	242	7691469610365216	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/timestamp	7ee75d205127cf9e
+30	242	7691469610365216	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+243	3085	7691469612495700	CMakeFiles/Donusturucu.dir/mainwindow.cpp.obj	2ce26c0ece326d24
+3085	3338	7691469640917385	Donusturucu.exe	f4908fc8a10b4ce4
+31	262	7691469764939522	Donusturucu_autogen/timestamp	7ee75d205127cf9e
+31	262	7691469764939522	Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+31	262	7691469764939522	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/timestamp	7ee75d205127cf9e
+31	262	7691469764939522	D:/QT/QT PROJE/Donusturucu/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Donusturucu_autogen/mocs_compilation.cpp	7ee75d205127cf9e
+263	3224	7691469767260062	CMakeFiles/Donusturucu.dir/mainwindow.cpp.obj	2ce26c0ece326d24
+3224	3481	7691469796870768	Donusturucu.exe	f4908fc8a10b4ce4
